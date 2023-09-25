@@ -7,9 +7,9 @@ This project is about creating a web page with two eyes that move following the 
    ·  index.html
    ·  eyes.js
    ·  styles.css
-- the javascript file and css style sheet are already linked between them, and the three files must be saved in the same directory, always check it is donde like this.
-- load "index.html" file in the web browser.
-- move your mouse and have fun!
+- The javascript file and css style sheet are already linked between them, and the three files must be saved in the same directory, always check it is donde like this.
+- Load "index.html" file in the web browser.
+- Move your mouse and have fun!
   
 ## What's next?
 What I plan to work on next in this repository is trying to add more eyes, in different sizes and colors, see how they all behave at the same time when I move the mouse, or mave add a button to create random eyes, always trying to make it more dynamic.
